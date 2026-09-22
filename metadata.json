@@ -1,0 +1,6 @@
+{
+  "name": "Joana's By Birolita",
+  "description": "Website oficial do restaurante Joana's By Birolita em Benguela, Angola. Conheça a nossa ementa, especialidades, galeria de fotografias e faça reservas ou pedidos diretamente via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
